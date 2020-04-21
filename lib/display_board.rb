@@ -17,5 +17,3 @@ def display_board(cells)
     end
   end
 end
-
-display_board(board)
